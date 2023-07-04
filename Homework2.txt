@@ -1,0 +1,15 @@
+Tell me about yourself?
+My Background is Chemistry, I have a PhD degree in this field and 
+while I was studing in the university I've got an oppotuinity to work as a QA Tester 
+for chemistry related online educational cources. 
+After 6 successfull years I would say that my real strengths are attention to details,
+ diligence, responsibility, as well as good communication skills. 
+I would definitely like to proceed my future professional life in IT.
+Currently I'm studying Java, different frameworks and other usefull tools to become 
+a confident developer.
+What I am looking for is to bring my perspective as QA tester to development 
+to improve the quality of the code and user experience and to gain professional 
+knowledges by working with more skilled developers. 
+Is this what Your company is looking for?
+
+
